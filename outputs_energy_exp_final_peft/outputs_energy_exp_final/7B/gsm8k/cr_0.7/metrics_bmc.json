@@ -1,0 +1,12 @@
+[{"timestamp":"2026-02-23T16:16:43.668701+01:00","device_id":"sirius-1","metric_id":"bmc_node_power_watt","value":1560,"labels":{}}, 
+ {"timestamp":"2026-02-23T16:16:48.66958+01:00","device_id":"sirius-1","metric_id":"bmc_node_power_watt","value":1716,"labels":{}}, 
+ {"timestamp":"2026-02-23T16:16:53.670252+01:00","device_id":"sirius-1","metric_id":"bmc_node_power_watt","value":1716,"labels":{}}, 
+ {"timestamp":"2026-02-23T16:16:58.670608+01:00","device_id":"sirius-1","metric_id":"bmc_node_power_watt","value":1716,"labels":{}}, 
+ {"timestamp":"2026-02-23T16:17:03.674067+01:00","device_id":"sirius-1","metric_id":"bmc_node_power_watt","value":1716,"labels":{}}, 
+ {"timestamp":"2026-02-23T16:17:08.674444+01:00","device_id":"sirius-1","metric_id":"bmc_node_power_watt","value":1716,"labels":{}}, 
+ {"timestamp":"2026-02-23T16:17:13.675564+01:00","device_id":"sirius-1","metric_id":"bmc_node_power_watt","value":1716,"labels":{}}, 
+ {"timestamp":"2026-02-23T16:17:18.676201+01:00","device_id":"sirius-1","metric_id":"bmc_node_power_watt","value":1716,"labels":{}}, 
+ {"timestamp":"2026-02-23T16:17:33.678509+01:00","device_id":"sirius-1","metric_id":"bmc_node_power_watt","value":1716,"labels":{}}, 
+ {"timestamp":"2026-02-23T16:17:38.67933+01:00","device_id":"sirius-1","metric_id":"bmc_node_power_watt","value":1794,"labels":{}}, 
+ {"timestamp":"2026-02-23T16:17:43.680286+01:00","device_id":"sirius-1","metric_id":"bmc_node_power_watt","value":1716,"labels":{}}, 
+ {"timestamp":"2026-02-23T16:17:48.680969+01:00","device_id":"sirius-1","metric_id":"bmc_node_power_watt","value":1560,"labels":{}}]
